@@ -1,0 +1,5 @@
+churn_risk,customer_count,avg_revenue,total_revenue,revenue_share_%
+Churned,2918,2270.6,6625605.31,65.5
+High Risk,386,2555.27,986335.76,9.75
+Low Risk,481,2982.04,1434361.07,14.18
+Medium Risk,391,2736.23,1069866.92,10.58

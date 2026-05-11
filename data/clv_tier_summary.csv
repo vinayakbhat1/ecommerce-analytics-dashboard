@@ -1,0 +1,5 @@
+clv_tier,customer_count,avg_predicted_clv,avg_historical_clv,avg_order_value,avg_orders,total_predicted,revenue_share_%
+Bronze,1044,9298.47,2748.71,1227.46,1.98,9707606.74,2.73
+Silver,1044,35942.51,1655.13,1008.01,1.29,37523978.73,10.55
+Gold,1044,85132.58,1658.23,1485.91,1.07,88878408.53,24.98
+Platinum,1044,210444.78,3627.75,3519.47,1.03,219704348.35,61.75

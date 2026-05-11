@@ -1,0 +1,6 @@
+segment,customer_count,avg_recency,avg_frequency,avg_monetary,total_revenue,revenue_share_%
+New & Promising,871,99.67,1.0,1778.23,1548835.79,15.31
+Champions,868,56.33,2.02,3598.05,3123103.61,30.87
+At Risk,835,231.36,1.25,2333.87,1948782.64,19.26
+Lost,835,319.69,1.08,1975.97,1649937.96,16.31
+Loyal,767,119.29,1.37,2406.14,1845509.06,18.24
